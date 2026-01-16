@@ -1,0 +1,5 @@
+{
+  "name": "Web SP Flash Tool",
+  "description": "A high-fidelity web-based interface mimicking the classic Smart Phone Flash Tool for MediaTek devices, featuring partition tables, firmware loading, and simulated flashing operations.",
+  "requestFramePermissions": []
+}
